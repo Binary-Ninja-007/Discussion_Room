@@ -1,7 +1,7 @@
 <div align="center">
 
 # Chatify
-
+This is the test version.
 ### Personal Chat Room or Workspace to share resources and hangout with friends.
 
 
