@@ -30,8 +30,8 @@ This is the test version.
 
 ### Clone this repository
 
-`git clone https://github.com/soumyajit4419/Chatify.git` <br/>
-`cd chatify`
+`git clone https://github.com/Jacks-London/Discussion_Room.git` <br/>
+
 
 ### Install Dependencies
 
