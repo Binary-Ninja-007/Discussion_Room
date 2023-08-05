@@ -1,7 +1,7 @@
 <div align="center">
 
 # Chatify
-
+This is the test version.
 ### Personal Chat Room or Workspace to share resources and hangout with friends.
 
 
@@ -30,8 +30,8 @@
 
 ### Clone this repository
 
-`git clone https://github.com/soumyajit4419/Chatify.git` <br/>
-`cd chatify`
+`git clone https://github.com/Jacks-London/Discussion_Room.git` <br/>
+
 
 ### Install Dependencies
 
